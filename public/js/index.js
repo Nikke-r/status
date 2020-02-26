@@ -1,4 +1,4 @@
-const url = 'https://status-niklas-r.herokuapp.com/';
+const url = 'https://status-niklas-r.herokuapp.com';
 const contentDiv = document.getElementById('content');
 
 const getPackages = async () => {
