@@ -1,0 +1,11 @@
+{
+  "name": "status",
+  "version": "1.0.0",
+  "description": "an app which reads a mock status file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niklas Rönnholm",
+  "license": "GPL-3.0"
+}
